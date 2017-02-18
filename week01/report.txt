@@ -1,0 +1,6 @@
+Short description of week 1 task:
+
+> Making folder per week for OS course
+> Commit every update with meaningful description
+> Pulling and Pushing every update to GitHub account
+> Making file txt using vi/nano
