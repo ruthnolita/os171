@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 ruth.nolita StafCS 4096 Feb 18 12:11 .
+drwx--x--x  3 ruth.nolita StafCS 4096 Feb 18 12:07 ..
+drwxr-xr-x  8 ruth.nolita StafCS 4096 Feb 18 12:10 .git
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:17 key
+-rw-r--r--  1 ruth.nolita StafCS    0 Feb 18 12:12 lab01.txt
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:17 log
+-rw-r--r--  1 ruth.nolita StafCS    7 Feb 18 11:11 README.md
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:38 sandbox
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 12:07 week00
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:15 week01
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:15 week02
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:15 week03
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:15 week04
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week05
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week06
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week07
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week08
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week09
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:16 week10
+drwxr-xr-x  2 ruth.nolita StafCS 4096 Feb 18 11:17 xtra
+/home/fasilkom/mahasiswa/r/ruth.nolita/os171/week01
