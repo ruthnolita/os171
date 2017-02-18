@@ -1,0 +1,6 @@
+Week Zero Requirement
+
+> To make sure having all the accounts : Google account and GitHub account
+> To make a repository for OS course in my GitHub account
+> Making sure the details of registration is OK 
+> Login to Badak server
