@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/r/ruth.nolita/.gnupg/pubring.gpg
+---------------------------------------------------------
+pub   4096R/5EBCDF5B 2017-02-25 [expires: 2017-08-24]
+uid                  Ruth Nolita Putri Sari (OS is the best haha !!! 12345) <ruth.nolita@ui.ac.id>
+sub   4096R/AA58EDDE 2017-02-25 [expires: 2017-08-24]
+

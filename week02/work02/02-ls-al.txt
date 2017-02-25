@@ -1,0 +1,11 @@
+total 44
+drwx--x--x  5 ruth.nolita StafCS 4096 Feb 25 14:19 .
+drwxr-xr-x 36 root        root   4096 Feb 11 12:36 ..
+-rw-r--r--  1 ruth.nolita StafCS 1612 Feb 25 13:51 00-toc.txt
+-rw-r--r--  1 ruth.nolita StafCS 3158 Feb 25 13:52 01-public-osteam.txt
+-rw-r--r--  1 ruth.nolita StafCS    0 Feb 25 14:19 02-ls-al.txt
+-rw-------  1 ruth.nolita StafCS 6838 Feb 25 14:09 .bash_history
+drwx------  2 ruth.nolita StafCS 4096 Feb 25 14:17 .gnupg
+drwxr-xr-x 18 ruth.nolita StafCS 4096 Feb 18 12:12 os171
+drwx------  2 ruth.nolita StafCS 4096 Feb 25 12:56 .ssh
+-rw-------  1 ruth.nolita StafCS 5824 Feb 25 12:02 .viminfo
