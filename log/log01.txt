@@ -2,6 +2,6 @@ w01-170214-19-LR-About: Operating Systems Structure, From: Lecturer
 w01-170214-19-LR-About: Hak Kekayaan Intelektual, From: Lecturer
 w01-170214-20-LR-About: Shell Scripting, From:Lecturer
 w01-170214-23-LR-About: Reading OS Structure, From: Course's slide
-w01-170217-23-PS-About: GitHub Learning
+w01-170217-23-PS-About: GitHub Learning.
 w01-170217-24-PS-About: Practical week01
 w01-170218-12-PS-About: Practical week01
