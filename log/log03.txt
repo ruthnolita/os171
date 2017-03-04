@@ -1,0 +1,7 @@
+w03-170228-19-LR-About: Quiz 1, From: Lecturer
+w03-170228-20-LR-About: BIOS and Init Explanation, From:Lecturer
+w03-170228-21-LR-About: Installing Debian using emulator, From:Lecturer
+w03-170303-23-PS-About: Practical week03
+w03-170304-10-PS-About: Practical week03
+w03-170304-11-PS-About: Practical week03
+w03-170304-12-PS-About: Practical week03
