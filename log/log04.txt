@@ -1,0 +1,16 @@
+w04-170307-19-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-19-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-20-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-20-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-20-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-21-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170307-21-LR-About: Addressing, Pointers and I/O Programming, From: Lecturer
+w04-170311-11-PS-About: Practical week04
+w04-170311-11-PS-About: Practical week04
+w04-170304-12-PS-About: Practical week04
+w04-170304-12-PS-About: Practical week04
+w04-170304-13-PS-About: Practical week04
+w04-170304-13-PS-About: Practical week04
+w04-170304-14-PS-About: Practical week04
+w04-170304-14-PS-About: Practical week04
+
